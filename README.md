@@ -5,10 +5,10 @@
 
 Soy desarrollador web con más de 3 años de experiencia. Busco nuevas experiencias y retos laborales. Soy proactivo y trabajo en equipo, aprendo rápido y me adapto perfectamente a cualquier entorno de trabajo. Sé trabajar bajo presión y siempre doy el 200% en mi trabajo. Si está buscando una persona que realmente contribuya a su empresa no dude en ponerse en contacto conmigo.
 
-## Experiencias:
+# Experiencias:
 
-# Desarrollador y diseñador web
-# ABcupon.com
+## Desarrollador y diseñador web
+## ABcupon.com
 Mar 2023 - (4 Meses)
 Creación y desarrollo de una plataforma de plataforma con WordPress, HTML y CSS.
 Implementación de SEO.
@@ -16,24 +16,24 @@ Incremento de las ventas online en un 50%.
 Creación y posicionamiento de marca.
 Creación e implementación de estrategias estrategias publicitarias.
 
-# Desarrollador Web
-# Lets Nurture
+## Desarrollador Web
+## Lets Nurture
 Mar 2022 - Mar 2023 (1 año)
 Desarrollo y creación de sitios web
 sitios web y directorios con WordPress, HTML, CSS y JS.
 Recopilación y creación de bases de datos de profesionales de diferentes sectores.
 Creación de ecommerce con WordPress, HTML y CSS.
 
-# Desarrollador Web
-# CubaDev
+## Desarrollador Web
+## CubaDev
 Oct 2018 - Dec 2019 (1 año y 2 meses)
 Desarrollo y creación de sitios web orientados a pequeñas empresas y creación con HTML, CSS y JS.
 Venta puerta a puerta de los servicios de la empresa.
 Creación y posicionamiento de marca.
 Creación e implementación de estrategias estrategias publicitarias.
 
-# Desarrollador Web Jr
-# Xetid
+## Desarrollador Web Jr
+### Xetid
 Sep 2017 - Jun 2018 (1 año)
 Maquetación web con HTML y CSS.
 Corrección de estilos en la aplicación web.
