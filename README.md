@@ -55,5 +55,5 @@ Y alguna más...
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
 ## Contacto:
-personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lagusdeveloper0110@gmail.com)
+[![Email](https://img.shields.io/badge/lagusdeveloper0110@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lagusdeveloper0110@gamil.com)
 
